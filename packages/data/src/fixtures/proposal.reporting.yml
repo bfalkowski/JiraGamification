@@ -1,0 +1,20 @@
+title: "Business Intelligence & Analytics Platform"
+description: "Build comprehensive reporting and analytics capabilities to provide business insights and improve decision-making processes."
+goals:
+  - "Create revenue analytics dashboard"
+  - "Track user engagement metrics"
+  - "Generate automated reports"
+  - "Enable data export functionality"
+keywords:
+  - "analytics"
+  - "reporting"
+  - "dashboard"
+  - "metrics"
+  - "revenue"
+  - "data"
+  - "export"
+  - "business intelligence"
+epics:
+  - "REPORTING"
+  - "PAYMENTS"
+budget: 40000
